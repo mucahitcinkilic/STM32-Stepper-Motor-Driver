@@ -27,4 +27,4 @@ Please note that only the core project files (stp.c, stp.h, and main.c) have bee
 
 The project also includes the design of the electronic circuit schematic, outlining the components and their connections. However, it does not include a PCB (Printed Circuit Board) design.
 
-Demonstration Video Link:
+Demonstration Video Link: https://youtu.be/_ikhdW4bP60?si=8B1KRZ_AjRtAgkzU
